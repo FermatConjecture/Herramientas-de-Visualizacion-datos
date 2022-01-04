@@ -1,0 +1,266 @@
+[
+   {
+      "partido":"PP",
+      "mediaAutoubicacion":7.09,
+      "votantes":2509,
+      "nsnc":302
+   },
+   {
+      "partido":"PSOE",
+      "mediaAutoubicacion":3.81,
+      "votantes":2330,
+      "nsnc":260
+   },
+   {
+      "partido":"IU",
+      "mediaAutoubicacion":3,
+      "votantes":518,
+      "nsnc":14
+   },
+   {
+      "partido":"UPyD",
+      "mediaAutoubicacion":4.66,
+      "votantes":35,
+      "nsnc":1
+   },
+   {
+      "partido":"Ciudadanos",
+      "mediaAutoubicacion":5.25,
+      "votantes":1869,
+      "nsnc":160
+   },
+   {
+      "partido":"Podemos",
+      "mediaAutoubicacion":3.14,
+      "votantes":1751,
+      "nsnc":117
+   },
+   {
+      "partido":"Convergència (CDC)",
+      "mediaAutoubicacion":4.96,
+      "votantes":192,
+      "nsnc":16
+   },
+   {
+      "partido":"ERC",
+      "mediaAutoubicacion":2.92,
+      "votantes":282,
+      "nsnc":8
+   },
+   {
+      "partido":"ICV",
+      "mediaAutoubicacion":3.33,
+      "votantes":57,
+      "nsnc":1
+   },
+   {
+      "partido":"Unió",
+      "mediaAutoubicacion":4.94,
+      "votantes":12,
+      "nsnc":1
+   },
+   {
+      "partido":"PNV",
+      "mediaAutoubicacion":4.96,
+      "votantes":113,
+      "nsnc":14
+   },
+   {
+      "partido":"EH Bildu",
+      "mediaAutoubicacion":2.49,
+      "votantes":125,
+      "nsnc":4
+   },
+   {
+      "partido":"Geroa Bai",
+      "mediaAutoubicacion":3.13,
+      "votantes":14,
+      "nsnc":1
+   },
+   {
+      "partido":"UPN",
+      "mediaAutoubicacion":6.57,
+      "votantes":4,
+      "nsnc":0
+   },
+   {
+      "partido":"BNG",
+      "mediaAutoubicacion":3.17,
+      "votantes":19,
+      "nsnc":1
+   },
+   {
+      "partido":"Anova",
+      "mediaAutoubicacion":2.12,
+      "votantes":5,
+      "nsnc":0
+   },
+   {
+      "partido":"CC",
+      "mediaAutoubicacion":5.38,
+      "votantes":14,
+      "nsnc":4
+   },
+   {
+      "partido":"Nueva Canarias",
+      "mediaAutoubicacion":4,
+      "votantes":4,
+      "nsnc":0
+   },
+   {
+      "partido":"Compromís",
+      "mediaAutoubicacion":3.05,
+      "votantes":52,
+      "nsnc":2
+   },
+   {
+      "partido":"FAC (Foro de Ciudadanos)",
+      "mediaAutoubicacion":4.5,
+      "votantes":2,
+      "nsnc":0
+   },
+   {
+      "partido":"PAR (Partido Aragonés)",
+      "mediaAutoubicacion":5.81,
+      "votantes":4,
+      "nsnc":0
+   },
+   {
+      "partido":"CHA",
+      "mediaAutoubicacion":3,
+      "votantes":1,
+      "nsnc":1
+   },
+   {
+      "partido":"PSM-Entesa/MES",
+      "mediaAutoubicacion":3.33,
+      "votantes":6,
+      "nsnc":0
+   },
+   {
+      "partido":"PI (Proposta per les Illes)",
+      "mediaAutoubicacion":4.5,
+      "votantes":2,
+      "nsnc":0
+   },
+   {
+      "partido":"VOX",
+      "mediaAutoubicacion":7.73,
+      "votantes":25,
+      "nsnc":0
+   },
+   {
+      "partido":"PACMA",
+      "mediaAutoubicacion":4,
+      "votantes":30,
+      "nsnc":11
+   },
+   {
+      "partido":"Los Verdes",
+      "mediaAutoubicacion":3.75,
+      "votantes":15,
+      "nsnc":8
+   },
+   {
+      "partido":"Partido Pirata",
+      "mediaAutoubicacion":3.13,
+      "votantes":1,
+      "nsnc":0
+   },
+   {
+      "partido":"Escaños en Blanco",
+      "mediaAutoubicacion":3.6,
+      "votantes":4,
+      "nsnc":1
+   },
+   {
+      "partido":"España 2000",
+      "mediaAutoubicacion":5,
+      "votantes":2,
+      "nsnc":0
+   },
+   {
+      "partido":"Ahora en Común",
+      "mediaAutoubicacion":2,
+      "votantes":6,
+      "nsnc":0
+   },
+   {
+      "partido":"(En Cataluña) En Comú Podem/Podem en Comú",
+      "mediaAutoubicacion":5,
+      "votantes":0,
+      "nsnc":0
+   },
+   {
+      "partido":"Unidad Popular",
+      "mediaAutoubicacion":3.48,
+      "votantes":2,
+      "nsnc":0
+   },
+   {
+      "partido":"(En Galicia) En Marea",
+      "mediaAutoubicacion":2.49,
+      "votantes":4,
+      "nsnc":0
+   },
+   {
+      "partido":"Partido Cannabis",
+      "mediaAutoubicacion":1.81,
+      "votantes":3,
+      "nsnc":2
+   },
+   {
+      "partido":"Falange Española",
+      "mediaAutoubicacion":9.04,
+      "votantes":3,
+      "nsnc":0
+   },
+   {
+      "partido":"Democracia Nacional",
+      "mediaAutoubicacion":10,
+      "votantes":0,
+      "nsnc":0
+   },
+   {
+      "partido":"SAIn (Partido Solidaridad y Autogestión Internacionalista)",
+      "mediaAutoubicacion":5,
+      "votantes":1,
+      "nsnc":0
+   },
+   {
+      "partido":"Otro",
+      "mediaAutoubicacion":3.07,
+      "votantes":108,
+      "nsnc":5
+   },
+   {
+      "partido":"Voto nulo",
+      "mediaAutoubicacion":4.3,
+      "votantes":87,
+      "nsnc":20
+   },
+   {
+      "partido":"En blanco",
+      "mediaAutoubicacion":4.66,
+      "votantes":373,
+      "nsnc":116
+   },
+   {
+      "partido":"No votaría",
+      "mediaAutoubicacion":4.62,
+      "votantes":760,
+      "nsnc":638
+   },
+   {
+      "partido":"No sabe todavía",
+      "mediaAutoubicacion":4.59,
+      "votantes":2541,
+      "nsnc":786
+   },
+   {
+      "partido":"N.C.",
+      "mediaAutoubicacion":4.75,
+      "votantes":733,
+      "nsnc":340
+   }
+]
